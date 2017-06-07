@@ -1,1 +1,2 @@
 add sone
+add some remote texts
