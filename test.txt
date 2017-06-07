@@ -1,2 +1,3 @@
 add sone
 add some local hosts
+add some remote texts
